@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Golvana",
-  description: "Modern web experience built with Next.js",
+  description: "E-commerce website Golvana made by GBC",
 };
 
 export default function RootLayout({
